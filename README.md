@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- BANNER — replace the URL below with your own photo banner once you share your image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:7c3aed,100:f59e0b&height=260&section=header&text=ANAHADH%20BIRDH&fontSize=60&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Blockchain%20Builder&descAlignY=62&descSize=17&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/AnahadhBirdh/AnahadhBirdh/main/banner.png" width="100%" alt="Anahadh Birdh Banner"/>
 
 <br/>
 
